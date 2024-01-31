@@ -1,0 +1,39 @@
+#bg{
+  color: white;
+  text-align: center;
+}
+
+#atm-container{
+  background-color: #30363e;
+  height: 50vh;
+  width: 45vh;
+  margin: auto;
+  margin-top: 25vh;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+#mode-select{
+  margin: auto;
+}
+
+#atm-type{
+  margin: 5%;
+  margin-top: 10%;
+}
+
+#account-title{
+  margin: 5%;
+  margin-top: 12%;
+}
+
+#total{
+  font-size: 70px;
+  padding-bottom: 5%;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
