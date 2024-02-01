@@ -2,7 +2,9 @@
 
 ## Description
 
-An ATM that uses state to store a bank account balance with the ability to deposit and get cash back.
+An ATM that uses state to store a bank account balance with the ability to deposit and withdraw funds via cash back.
+
+Additional implementations: error messages describing input value errors, style and format changes
 
 Built using React to practice using the state of parent components in a CRUD model.
 
